@@ -39,7 +39,8 @@ you can keep a clear conscience: http://skaarhoj.com/about/licenses/
 #include "Arduino.h"
 #include "SkaarhojTCPClient.h"
 
-#include <Ethernet.h>
+//#include <Ethernet.h>
+#include "Wifi.h"
 //  #include "SkaarhojPgmspace.h"  - 23/2 2014
 
 #define ClientBMDHyperdeckStudio_CLIPS 10

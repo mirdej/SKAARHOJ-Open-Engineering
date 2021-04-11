@@ -25,6 +25,7 @@ you can keep a clear conscience: http://skaarhoj.com/about/licenses/
 */
 
 
+#define ESP8266	1
 
 
 #ifndef ATEMbase_h

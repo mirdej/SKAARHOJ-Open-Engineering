@@ -27,6 +27,24 @@ you can keep a clear conscience: http://skaarhoj.com/about/licenses/
 
 
 
+
+#define TEST_AUX 1
+#define TEST_MESEC 1
+#define TEST_COLORGEN 1
+#define TEST_SUPERSOURCE 1
+#define TEST_MP 1
+#define TEST_DSK 1
+#define TEST_FLY 1
+#define TEST_AUDIO 1
+#define TEST_AUDIO_LEVELS 1
+#define TEST_CCU 1
+#define TEST_TALLY 1
+#define TEST_MACROS 1
+#define TEST_SETTINGS 1
+
+
+
+
 #ifndef ATEMext_h
 #define ATEMext_h
 
